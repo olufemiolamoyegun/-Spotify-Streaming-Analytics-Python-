@@ -72,11 +72,11 @@ Data-informed music promotion strategies
 Support experimentation and A/B testing in playlists
 
 
-👤 Author
+## 👤 Author
+**Olufemi Olamoyegun**  
+Data Analyst | Python | Product & Growth Analytics  
 
-Olufemi Olamoyegun
-Data Analyst | Python | Product & Growth Analytics
-
+[LinkedIn](https://www.linkedin.com/in/olufemiolamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
 
 
 
