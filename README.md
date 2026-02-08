@@ -1,85 +1,100 @@
-🎧 Spotify Streaming Analytics — Product & Growth Insights
-📌 Project Overview
+Spotify Streaming Analytics
+Description
 
-This project explores music streaming behavior using a synthetic Spotify-style dataset to uncover product and growth insights.
-The analysis focuses on track popularity, audio features, and listener engagement, simulating how data analysts support product, playlist, and recommendation decisions in streaming platforms.
+This repository contains a product and growth analytics project analyzing music streaming behavior using a synthetic Spotify-style dataset. The analysis focuses on track popularity, audio features, and listener engagement to generate data-driven insights that support product and playlist optimization decisions.
 
-The project is designed to reflect real-world product analytics workflows while remaining fully portfolio-safe and non-proprietary.
+The dataset is synthetic and created strictly for portfolio and educational purposes.
 
-🎯 Business Objectives
+Dataset
 
-Identify key factors driving track popularity and streaming volume
+File: Spotify_Tracks_Synthetic.csv
+
+Records: 5,000+ tracks
+
+Type: Synthetic, non-Kaggle, portfolio-safe
+
+Key Columns
+
+streams
+
+popularity
+
+danceability
+
+energy
+
+tempo
+
+duration_ms
+
+Objectives
+
+Identify factors influencing track popularity
 
 Analyze relationships between audio features and listener engagement
 
-Support data-driven playlist curation and product optimization decisions
+Understand distribution patterns typical of streaming platforms
 
-📊 Dataset Description
+Tools & Libraries
 
-Dataset: Spotify_Tracks_Synthetic.csv
+Python
 
-Tracks: 5,000+ (synthetic records)
+Pandas
 
-Key Fields:
+NumPy
 
-Streams
+Matplotlib
 
-Popularity score
+Seaborn
 
-Danceability
+Analysis Overview
 
-Energy
-
-Tempo
-
-Track duration
-
-Data Type: Synthetic, privacy-safe, non-Kaggle
-
-🛠 Tools & Technologies
-
-Python: Pandas, NumPy
-
-Visualization: Matplotlib, Seaborn
-
-Analysis Techniques:
-
-Exploratory Data Analysis (EDA)
-
-Correlation analysis
-
-Distribution analysis
-
-🔍 Analytical Approach
+The analysis includes:
 
 Data validation and cleaning
 
-Exploratory analysis of popularity and streaming distributions
+Exploratory Data Analysis (EDA)
+
+Distribution analysis of streams and popularity
 
 Correlation analysis between audio features and engagement metrics
 
-Identification of high-performing track profiles based on feature combinations
+Identification of high-performing track profiles
 
-📈 Key Insights
+Key Findings
 
-Tracks with higher energy and danceability show stronger streaming performance
+Higher energy and danceability are positively correlated with increased streams
 
-Very long track durations are associated with reduced listener engagement
+Extremely long track durations are associated with lower listener engagement
 
-Track popularity follows a long-tail distribution, typical of digital content platforms
+Track popularity follows a long-tail distribution common in digital content platforms
 
-📝 Business Recommendations
+Business Use Cases
 
-Optimize playlist curation around high-engagement audio feature profiles
+Playlist optimization based on high-engagement audio features
 
-Use feature-level insights to guide music promotion and discovery strategies
+Data-informed music promotion strategies
 
-Support A/B testing of playlist configurations to improve listener retention and engagement
+Support for experimentation and A/B testing in playlist curation
 
-🌟 Business Impact
+Project Structure
+.
+├── Spotify_Tracks_Synthetic.csv
+├── spotify_analysis.ipynb
+├── README.md
+└── visualizations/
 
-Enables data-driven playlist optimization
+How to Run
 
-Improves understanding of listener preferences
+Clone the repository
 
-Demonstrates product and growth analytics skills relevant to streaming and SaaS platforms
+Install required Python libraries
+
+Open the notebook and run all cells
+
+pip install pandas numpy matplotlib seaborn
+
+Author
+
+Olufemi Olamoyegun
+Data Analyst | Python | Product & Growth Analytics
