@@ -1,11 +1,11 @@
-Spotify Streaming Analytics
-Description
+🎵 Spotify Streaming Analytics
+📌 Project Description
 
 This repository contains a product and growth analytics project analyzing music streaming behavior using a synthetic Spotify-style dataset. The analysis focuses on track popularity, audio features, and listener engagement to generate data-driven insights that support product and playlist optimization decisions.
 
-The dataset is synthetic and created strictly for portfolio and educational purposes.
+Note: The dataset is synthetic and created strictly for portfolio and educational purposes.
 
-Dataset
+📊 Dataset
 
 File: Spotify_Tracks_Synthetic.csv
 
@@ -13,21 +13,21 @@ Records: 5,000+ tracks
 
 Type: Synthetic, non-Kaggle, portfolio-safe
 
-Key Columns
+Key Columns:
 
-streams
+streams – Number of streams per track
 
-popularity
+popularity – Track popularity score
 
-danceability
+danceability – Danceability rating of the track
 
-energy
+energy – Energy level of the track
 
-tempo
+tempo – Tempo of the track (BPM)
 
-duration_ms
+duration_ms – Track duration in milliseconds
 
-Objectives
+🎯 Objectives
 
 Identify factors influencing track popularity
 
@@ -35,21 +35,17 @@ Analyze relationships between audio features and listener engagement
 
 Understand distribution patterns typical of streaming platforms
 
-Tools & Libraries
+🛠 Tools & Libraries
 
-Python
+Python – Data analysis and modeling
 
-Pandas
+Pandas – Data manipulation
 
-NumPy
+NumPy – Numerical computations
 
-Matplotlib
+Matplotlib & Seaborn – Data visualization
 
-Seaborn
-
-Analysis Overview
-
-The analysis includes:
+🔍 Analysis Overview
 
 Data validation and cleaning
 
@@ -61,15 +57,15 @@ Correlation analysis between audio features and engagement metrics
 
 Identification of high-performing track profiles
 
-Key Findings
+📈 Key Findings
 
 Higher energy and danceability are positively correlated with increased streams
 
 Extremely long track durations are associated with lower listener engagement
 
-Track popularity follows a long-tail distribution common in digital content platforms
+Track popularity follows a long-tail distribution, common in digital content platforms
 
-Business Use Cases
+💡 Business Use Cases
 
 Playlist optimization based on high-engagement audio features
 
@@ -77,24 +73,25 @@ Data-informed music promotion strategies
 
 Support for experimentation and A/B testing in playlist curation
 
-Project Structure
+🗂 Project Structure
 .
 ├── Spotify_Tracks_Synthetic.csv
 ├── spotify_analysis.ipynb
 ├── README.md
 └── visualizations/
 
-How to Run
+⚡ How to Run
 
 Clone the repository
 
-Install required Python libraries
-
-Open the notebook and run all cells
+Install required Python libraries:
 
 pip install pandas numpy matplotlib seaborn
 
-Author
+
+Open spotify_analysis.ipynb and run all cells
+
+👤 Author
 
 Olufemi Olamoyegun
 Data Analyst | Python | Product & Growth Analytics
