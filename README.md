@@ -5,7 +5,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-blue?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-red?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.13-blueviolet?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Repo Size](https://img.shields.io/github/repo-size/yourusername/Spotify-Streaming-Analytics-Python)]([https://github.com/yourusername/Spotify-Streaming-Analytics-Python)]
+[![Repo Size](https://img.shields.io/github/repo-size/olufemiolamoyegun/Spotify-Streaming-Analytics-Python)](https://github.com/olufemiolamoyegun/Spotify-Streaming-Analytics-Python)
 
 ---
 
