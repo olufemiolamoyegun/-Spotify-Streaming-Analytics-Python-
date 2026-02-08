@@ -76,7 +76,7 @@ Support experimentation and A/B testing in playlists
 **Olufemi Olamoyegun**  
 Data Analyst | Python | Product & Growth Analytics  
 
-[LinkedIn](https://www.linkedin.com/in/olufemiolamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
+[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
 
 
 
