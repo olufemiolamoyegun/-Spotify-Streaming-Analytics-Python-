@@ -59,9 +59,8 @@ Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ---
 
-## 🖼 Project Showcase
-![Streams vs Popularity](visualizations/streams_vs_popularity.png)  
-![Correlation Heatmap](visualizations/correlation_heatmap.png)  
+## 🖼 Project Showcase  
+![Correlation Heatmap](spotify%20heatmap%20.png)  
 
 💡 Business Use Cases
 
